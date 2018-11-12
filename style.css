@@ -1,0 +1,28 @@
+MH
+{
+    font-weight: bold;
+    font-size: 32px;
+    font-family:Georgia;
+}
+
+
+SH{
+    font-size: 18px;
+    color: blue;
+    font-family: Georgia;
+}
+
+#para1
+{
+    font-size: 16px;
+    font-family: Georgia;
+    text-align: center;
+}
+
+#para2
+{
+    font-size: 16px;
+    font-family: Georgia;
+    text-align: left;
+    color: #800000;
+}
